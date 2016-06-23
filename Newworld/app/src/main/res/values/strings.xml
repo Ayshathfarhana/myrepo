@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">New World</string>
+    <string name="edit_name">Enter Name</string>
+    <string name="edit_place">Enter Place</string>
+    <string name="edit_course">Enter Course</string>
+    <string name="edit_college">Enter college</string>
+    <string name="button_send">Send</string>
+    <string name="action_settings">Settings</string>
+</resources>
